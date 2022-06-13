@@ -1,0 +1,56 @@
+name: Submit Project
+description: Request Team Edition for your project
+title: "[NEW OSS PROJECT]: "
+labels: ["new-request"]
+assignees:
+  - developer-advocates
+body:
+  - type: checkboxes
+    id: project-maintainer
+    attributes:
+      label: Are you a maintainer, or core-contributor, to the project?
+      options:
+        - label: "Yes"
+          required: true
+  - type: checkboxes
+    id: pulumi-account
+    attributes:
+      label: We already have a Pulumi.com account?
+      options:
+        - label: Yes, we have created an account
+          required: true
+  - type: checkboxes
+    id: regular-checkins
+    attributes:
+      label: Do you agree to regular check-ins, no more than once every 90 days, with a Developer Advocate from the Pulumi team?
+      options:
+        - label: "Yes"
+          required: true
+  - type: input
+    id: project-name
+    attributes:
+      label: What's your Open Source project called?
+      placeholder: Project Name
+    validations:
+      required: true
+  - type: input
+    id: github-org-repo
+    attributes:
+      label: What's your GitHub organization or repository?
+      placeholder: https://github.com/org
+    validations:
+      required: true
+  - type: input
+    id: team-id
+    attributes:
+      label: What's Pulumi.com team ID?
+      placeholder: Team ID/Name
+    validations:
+      required: true
+  - type: checkboxes
+    id: assistance-needed
+    attributes:
+      label: Do/would you like any assistance with your Pulumi adoption from the DevRel team?
+      options:
+        - label: "Yes"
+          required: false
