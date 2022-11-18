@@ -1,6 +1,6 @@
 # Pulumi Service (Team Edition) for Open Source
 
-Want to use Pulumi.com as a state and secret backend for your open-source project?
+Want to use the Pulumi Service (app.pulumi.com) as a state and secret backend for your open-source project?
 
 Then look no-further! We've got you covered.
 
