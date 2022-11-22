@@ -28,3 +28,5 @@ If you're unsure if these requirements are met, please email our developer advoc
 - [Tinkerbell](https://github.com/tinkerbell/infrastructure)
 - [Pulumiverse](https://github.com/pulumiverse/infra)
 - [sigstore](https://github.com/sigstore/github-sync)
+- [Branches](https://github.com/getbranches/conf)
+
