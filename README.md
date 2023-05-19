@@ -19,7 +19,7 @@ To use Pulumi Team Edition Open Source, you must:
 - [ ] Project must be older than 30 days old
 - [ ] Pulumi code for your automation must be publicly available
 - [ ] Chat, for 15 minutes, with a Pulumi Developer Advocate once every 90 days
-  - We want to ensure that you're using the Pulumi product well and will strive to help you wiht your adoption.
+  - We want to ensure that you're using the Pulumi product well and will strive to help you with your adoption.
 
 If you're unsure if these requirements are met, please email our developer advocacy team to [start a conversation](mailto:da@pulumi.com).
 
