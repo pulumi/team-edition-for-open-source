@@ -33,3 +33,4 @@ If you're unsure if these requirements are met, please email our developer advoc
 - [sigstore](https://github.com/sigstore/github-sync)
 - [Branches](https://github.com/getbranches/conf)
 - [Bjerk](https://github.com/bjerkio/infra-core)
+- [FormSG](https://github.com/opengovsg/formsg-infra)
