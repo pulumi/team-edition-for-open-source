@@ -6,6 +6,7 @@ Then look no-further! **We've got you covered**.
 
 As a company, we are deeply committed to being a good steward of the Pulumi open source project. As a way to give back to the community, the Pulumi Team Edition for Open Source gives maintainers of open source projects access to tools that help them to innovate and scale faster.
 
+
 ## How to Apply
 
 1. [ ] Sign up for a free trial (no credit card required) at https://app.pulumi.com
