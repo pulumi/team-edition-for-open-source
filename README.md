@@ -40,3 +40,4 @@ If you're unsure if these requirements are met, please email our developer advoc
 - [FormSG](https://github.com/opengovsg/formsg-infra)
 - [OpenTTD](https://github.com/OpenTTD/infra)
 - [Hackercampcz](https://github.com/hackercampcz/core)
+- [Consortium of Infectious Disease Modeling Hubs ("Hubverse")](https://github.com/Infectious-Disease-Modeling-Hubs/hubverse-infrastructure)
