@@ -43,7 +43,7 @@ body:
   - type: input
     id: team-id
     attributes:
-      label: What's Pulumi.com team ID?
+      label: What's your Pulumi.com organization ID?
       placeholder: Team ID/Name
     validations:
       required: true
