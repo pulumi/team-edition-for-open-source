@@ -1,6 +1,6 @@
 # Pulumi Team Edition for Open Source
 
-Want to use the Pulumi Cloud (app.pulumi.com) as a state and secret backend for your open-source project?
+Want to use the Pulumi Cloud ([app.pulumi.com](https://app.pulumi.com/) as a state and secret backend for your open-source project?
 
 Then look no-further! **We've got you covered**.
 
