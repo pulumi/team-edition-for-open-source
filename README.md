@@ -44,3 +44,4 @@ If you're unsure if these requirements are met, please email our developer advoc
 - [Free Law Project](https://github.com/freelawproject/)
 - [Tabiya's Taxonomy Application](https://github.com/tabiya-tech/taxonomy-model-application/tree/main/iac)
 - [conda-forge](https://github.com/conda-forge/infrastructure)  
+- [SlateDB](https://github.com/slatedb/slatedb-pulumi)
